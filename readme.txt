@@ -1,2 +1,2 @@
 dev
-quick & sample
+quick and sample
