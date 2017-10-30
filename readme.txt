@@ -1,2 +1,0 @@
-dev
-quick and sample
